@@ -21,7 +21,7 @@ Route::get('/about', function(){
         "judul" => "About",
         "nama" => "IRA AMELIA",
         "Nim" => "E41210501",
-        "image" => "yoona.jpg"
+        "image" => "polije.png"
     ]);
 });
 Route::get('/dashboard', function(){
